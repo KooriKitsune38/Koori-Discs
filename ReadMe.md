@@ -1,6 +1,7 @@
 # Readme
-## Nothing, just get the disk with:
-/give @s minecraft:music_disc_13{SongID:1,k.Disc:true}
+## Get the disc
+Nothing, just get the disk with:
+`/give @s minecraft:music_disc_13{SongID:1,k.Disc:true}`
 
 ## Adding Discs
 To add discs, go to `data/k.music/functions/sort.ids` and copy the commented lines.
