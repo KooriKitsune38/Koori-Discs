@@ -1,0 +1,19 @@
+{
+    "criteria": {
+        "trigger":{
+            "trigger": "item_used_on_block",
+            "conditions": {
+                "item": {
+                    "items": [
+                        "music_disc_13"
+                    ],
+                    "nbt": "{k.Disc:true}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "k.music:juke.start.ray"
+    }
+    
+}

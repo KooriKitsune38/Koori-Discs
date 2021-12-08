@@ -1,0 +1,29 @@
+{
+    "condition": "alternative",
+    "terms": [
+        {
+            "condition": "inverted",
+            "term": {
+                "condition": "location_check",
+                "predicate": {
+                    "block": {
+                        "blocks": [
+                            "jukebox"
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "condition": "inverted",
+            "term": {
+                "condition": "location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{RecordItem:{tag:{k.Disc:true}}}"
+                    }
+                }
+            }
+        }
+    ]
+}
