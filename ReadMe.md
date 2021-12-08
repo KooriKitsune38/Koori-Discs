@@ -1,6 +1,6 @@
 # Instructions
 ## Get the disc
-Nothing, just get the disk with:
+Nothing, just get the disc with:
 `/give @s minecraft:music_disc_13{SongID:1,k.Disc:true}`
 
 ## Adding Discs
