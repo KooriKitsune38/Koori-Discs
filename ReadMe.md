@@ -5,4 +5,5 @@ Nothing, just get the disk with:
 
 ## Adding Discs
 To add discs, go to `data/k.music/functions/sort.ids` and copy the commented lines.
-after that you can just add the custom sound to the first line you added, and repeat the same sound to the second
+
+After that you can just add the custom sound to the first line you added, and repeat the same sound to the second.
